@@ -1,6 +1,6 @@
 # Calculator
 
-This has been my process of learning Python 3 as a starting programming language.
+This has been my process of programming a calculator while learning Python 3 as a starting programming language.
 
 calculator1.py was my first ever attempt at just programming the basic calculations of a calculator without any error checking. 
 It did what it was meant to do but crashed at unsuspected inputs. 
